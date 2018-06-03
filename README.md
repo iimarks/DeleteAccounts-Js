@@ -1,1 +1,4 @@
-# DeleteAccounts-Js
+```bash
+yarn install
+yarn start
+```
